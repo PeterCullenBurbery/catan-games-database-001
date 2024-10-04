@@ -1,0 +1,9 @@
+Enter the PDB name:
+catan_games_database_001
+Enter the admin username:
+catan_games
+Enter the admin password:
+1234
+Enter the file storage location:
+C:\oracle-pluggable-database\catan-games-database-001
+Pluggable Database created and configured successfully!
